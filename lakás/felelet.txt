@@ -1,0 +1,3 @@
+forint, dollár, euro
+
+google chrome
